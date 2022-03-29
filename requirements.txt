@@ -28,7 +28,7 @@ MarkupPy==1.14
 MarkupSafe==1.1.1
 odfpy==1.4.0
 openpyxl==3.0.2
-paramiko==2.6.0
+paramiko==2.10.1
 Pillow==7.1.1
 pycparser==2.19
 Pygments==2.6.1
